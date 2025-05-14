@@ -38,14 +38,19 @@ Install the required packages:
 ```bash
 pip install ucimlrepo pandas matplotlib seaborn
 
-🚀 How to Run
-Run the Python script:
+**🚀 How to Run**
+
+Run the Python script using the command below:
+
+```bash
 python car_evaluation_analysis.py
 
 📁 Output
+
 All plots will be saved in a folder named plots.
 
 📈 Key Observations
+
 Most cars fall under the unacc category.
 
 Higher safety ratings tend to be associated with more acceptable cars.
@@ -53,4 +58,5 @@ Higher safety ratings tend to be associated with more acceptable cars.
 Buying and maintenance costs influence class ratings significantly.
 
 🧑‍💻 Author
+
 Developed for a data analysis assignment using Python and UCI datasets.
